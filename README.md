@@ -9,10 +9,10 @@ Develop a comprehensive online learning platform with three user types (Student,
 
 ## Team Member:
 
-    - Sriram L
-    - Sarathy A
-    - Shanmugam S
-    - Santhosh Kumar K
+    - Sriram L (410121243055)
+    - Sarathy A (410121243051)
+    - Shanmugam S (410121243054)
+    - Santhosh Kumar K (410121243050)
 
 ## *BACKEND for the PROJECT*
 
